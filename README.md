@@ -41,7 +41,3 @@ Follow the steps below to run Chatify on your local machine:
 3. **Run the Application in Development Mode Start the app locally**
    ```bash
    npm start
-
-4. **Build for Production Create an optimized build for deployment**
-   ```bash
-   npm run build
