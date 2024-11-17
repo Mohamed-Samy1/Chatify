@@ -34,14 +34,14 @@ Follow the steps below to run Chatify on your local machine:
    git clone https://github.com/your-username/chatify.git
    cd chatify
 
-2. Install Dependencies Install the required Node.js dependencies:
+2. **Install Dependencies Install the required Node.js dependencies**
+   ```bash
+   npm install
 
-npm install
+3. **Run the Application in Development Mode Start the app locally**
+   ```bash
+   npm start
 
-3. Run the Application in Development Mode Start the app locally:
-
-npm start
-
-4. Build for Production Create an optimized build for deployment:
-
-npm run build
+4. **Build for Production Create an optimized build for deployment**
+   ```bash
+   npm run build
