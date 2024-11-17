@@ -15,13 +15,13 @@
 ## Screenshots
 
 ### Login Page
-![Login Page Screenshot](frontend/pubic/login.png)
+![Login Page Screenshot](assets/login.png)
 
 ### Signup Page
-![Signup Page Screenshot](frontend/pubic/signup.png)
+![Signup Page Screenshot](assets/signup.png)
 
 ### Messages Page
-![Messages Page Screenshot](frontend/pubic/chat.png)
+![Messages Page Screenshot](assets/chat.png)
 
 ---
 
